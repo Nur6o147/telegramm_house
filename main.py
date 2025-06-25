@@ -9,7 +9,6 @@ from geopy.geocoders import Nominatim
 from deep_translator import GoogleTranslator # type: ignore
 
 
-import aiogram
 '''для работы и подключения к БД
 подключить PostgerSQL и дальше создаоть БД использую те линки'''
 import sqlite3
