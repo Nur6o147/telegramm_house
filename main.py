@@ -8,6 +8,8 @@ from geopy.geocoders import Nominatim
 #прочитать библиотеку по лучше чтобы можно было переводить на другие языки тоже 
 from deep_translator import GoogleTranslator # type: ignore
 
+
+import aiogram
 '''для работы и подключения к БД
 подключить PostgerSQL и дальше создаоть БД использую те линки'''
 import sqlite3
